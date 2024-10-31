@@ -83,7 +83,7 @@ img {
   font-size: 1.125rem;
   font-weight: bold;
 }
-#detail .contet .img {
+#detail .content .img {
   width: 270px;
   margin-right: 60px;
 }
@@ -96,6 +96,7 @@ img {
   padding: 16px 0;
   margin-bottom: 25px;
   border-top: solid 1px #dedede;
+  border-bottom: solid 1px #dedede;
 }
 #detail .contet dt {
   width: 25%;
