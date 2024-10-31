@@ -56,3 +56,18 @@ img {
     padding: 0 10px;
   }
 }
+/* index */
+#index {
+  background-color: #fff;
+  padding: 30px 0;
+  margin-bottom: 60px;
+}
+#index .index-list {
+  margin-left: 20px;
+}
+#index .index-list li {
+  margin-bottom: 20px;
+}
+#index .index-list li:last-child {
+  margin-bottom: 0;
+}
