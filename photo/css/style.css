@@ -30,3 +30,20 @@ img {
     padding: 0 40px;
   }
 }
+/* header */
+#header {
+  margin-top: 60px;
+}
+#header .site-title {
+  width: 160px;
+  line-height: 1px;
+  margin-bottom: 15px;
+}
+#header .site-title a {
+  display: block;
+}
+@media screen and (max-width: 1024px) {
+  #header {
+    padding: 0 10px;
+  }
+}
