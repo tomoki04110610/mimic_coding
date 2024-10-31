@@ -47,3 +47,12 @@ img {
     padding: 0 10px;
   }
 }
+/* mainvisual */
+#mainvisual {
+  margin-bottom: 60px;
+}
+@media screen and (max-width: 1024px) {
+  #mainvisual {
+    padding: 0 10px;
+  }
+}
