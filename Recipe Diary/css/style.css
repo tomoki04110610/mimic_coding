@@ -59,3 +59,11 @@ a {
     width: 100%;
   }
 }
+/* btn */
+.text .btn {
+  display: inline-block;
+  border: solid 1px #2b2a27;
+  font-size: 0.875rem;
+  padding: 18px 60px;
+  text-decoration: none;
+}
