@@ -28,3 +28,12 @@ a {
   object-position: center top;
   margin-bottom: 80px;
 }
+/* text */
+.text {
+  text-align: center;
+  padding: 0 20px;
+  margin-bottom: 80px;
+}
+.text .site-title {
+  margin-bottom: 20px;
+}
