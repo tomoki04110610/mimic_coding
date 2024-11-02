@@ -20,3 +20,11 @@ a {
 @media screen and (max-width: 834px) {
   
 }
+/* mainvisual */
+#mainvisual img {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+  object-position: center top;
+  margin-bottom: 80px;
+}
