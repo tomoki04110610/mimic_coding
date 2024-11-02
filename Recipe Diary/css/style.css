@@ -67,3 +67,17 @@ a {
   padding: 18px 60px;
   text-decoration: none;
 }
+/* footer */
+#footer {
+  font-size: 0.75rem;
+  padding: 20px;
+  text-align: center;
+}
+#footer .sns {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+#footer .sns li {
+  margin: 0 10px;
+}
